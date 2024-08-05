@@ -1,0 +1,14 @@
+
+.right {
+    position: relative;
+    top: 0px;
+    right: -300px;
+}
+.left{
+    position: relative;
+    left: 86px;
+}
+
+.top{
+    margin: auto 30%;
+}

@@ -1,0 +1,39 @@
+.topdiv{
+    margin: auto ;
+}
+
+.middiv{
+    margin: auto 30%;
+}
+
+.detailsblock{
+    margin: auto 10%;
+    font-size: medium;
+    font-family: system-ui;
+    color: rgb(102, 102, 102);
+}
+
+.heading{
+    color: rgb(28, 28, 28);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
+.sub{
+    color: rgb(31, 31, 31);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    text-transform: capitalize;
+}
+
+.rating-star{
+    position: relative;
+    top: -35px;
+    left: 105px;
+}

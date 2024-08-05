@@ -1,0 +1,42 @@
+.item {
+    width: 700px;
+    height: 200px;
+    /* border: 5px solid red; */
+}
+
+.imageblock {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+span {
+    font-size: smaller;
+    font-weight: 700;
+    /* position: relative;
+    top: -26px;
+    left: -90px; */
+}
+
+ /* Style to create a horizontal list */ 
+ ul.horizontal-list { 
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    display: flex; 
+  } 
+
+  ul.horizontal-list li { 
+    margin-right: 10px; 
+  } 
+
+  .gold-star {
+    color: gold;
+    font-size: 30px;
+}
+/* 
+.rating-star{
+    position: relative;
+    top: -9px;
+    left: 129px;
+} */
